@@ -1,24 +1,39 @@
-{
+﻿{
     "data": [
         {
             "year": "2021",
-            "paper": "21",
-            "marking": "https://pastpapers.wiki/download/14272/2021-a-l-past-papers/52706/2021-al-combined-maths-past-paper-sinhala-medium.pdf"
+            "paper": "https://pastpapers.wiki/download/14272/2021-a-l-past-papers/52706/2021-al-combined-maths-past-paper-sinhala-medium.pdf",
+            "marking": "https://pastpapers.wiki/download/18376/2021-a-l-markings/57906/2021-al-combined-maths-marking-scheme-sinhala-medium-2.pdf"
         },
         {
             "year": "2020",
-            "paper": "30",
-            "marking": "https://pastpapers.wiki/download/7820/gce-a-l/27451/2020-new.pdf"
+            "paper": "https://pastpapers.wiki/download/7820/gce-a-l/27451/2020-new.pdf",
+            "marking": "#"
         },
         {
             "year": "2019",
-            "paper": "30",
-            "marking": "https://pastpapers.wiki/download/7820/gce-a-l/27445/2019-new.pdf"
+            "paper": "https://pastpapers.wiki/download/7820/gce-a-l/27445/2019-new.pdf",
+            "marking": "https://drive.google.com/uc?id=1L2SF1hEIaXHPFe5y2k-fCFQn5hBn5NAz"
         },
         {
             "year": "2018",
-            "paper": "21",
-            "marking": "https://pastpapers.wiki/download/7820/gce-a-l/27440/2018.pdf"
+            "paper": "https://pastpapers.wiki/download/7820/gce-a-l/27440/2018.pdf",
+            "marking": "#"
+        },
+        {
+            "year": "2017",
+            "paper": "https://pastpapers.wiki/download/7820/gce-a-l/27444/2017-2.pdf",
+            "marking": "https://pastpapers.wiki/download/7820/gce-a-l/27425/2017-answers-2.pdf"
+        },
+        {
+            "year": "2016",
+            "paper": "https://pastpapers.wiki/download/7820/gce-a-l/27450/2016.pdf",
+            "marking": "https://pastpapers.wiki/download/7820/gce-a-l/27424/2016-answers.pdf"
+        },
+        {
+            "year": "2015",
+            "paper": "https://pastpapers.wiki/download/7820/gce-a-l/27448/2015.pdf",
+            "marking": "https://pastpapers.wiki/download/7820/gce-a-l/27422/2015-answers-2.pdf"
         }
     ]
 }
