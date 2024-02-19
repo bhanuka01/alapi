@@ -35,7 +35,18 @@
             "mark": "marking",
             "paper": "https://pastpapers.wiki/download/7820/gce-a-l/30386/2017-ppr-8.pdf",
             "marking": "https://pastpapers.wiki/download/7820/gce-a-l/30280/2017-m-2.pdf"
+        },
+        {
+            "year": "2016",
+            "mark": "marking",
+            "paper": "https://pastpapers.wiki/download/7820/gce-a-l/30388/2016-ppr-8.pdf",
+            "marking": "https://pastpapers.wiki/download/7820/gce-a-l/30282/2016-m-4.pdf"
+        },
+        {
+            "year": "2015",
+            "mark": "marking",
+            "paper": "https://pastpapers.wiki/download/7820/gce-a-l/30390/2015-ppr-7.pdf",
+            "marking": "https://pastpapers.wiki/download/7820/gce-a-l/30279/2015-m-2.pdf"
         }
-        
     ]
 }
