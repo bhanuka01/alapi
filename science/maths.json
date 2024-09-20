@@ -1,6 +1,12 @@
 ﻿{
     "data": [
         {
+            "year": "2023",
+            "mark": "marking",
+            "paper": "https://pastpapers.wiki/download/27227/2023-2024-a-l/70954/20232024-al-combined-maths-paper-sinhala-medium.pdf",
+            "marking": "https://pastpapers.wiki/download/7820/gce-a-l/75324/20232024-al-combined-maths-marking-scheme-sinhala-medium.pdf"
+        },
+        {
             "year": "2022",
             "mark": "marking",
             "paper": "https://pastpapers.wiki/download/22285/2022-a-l-past-papers/54863/2022-al-combined-mathematics-past-paper-sinhala-medium.pdf",
