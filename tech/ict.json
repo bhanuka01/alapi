@@ -1,6 +1,12 @@
 {
     "data": [
         {
+            "year": "2023",
+            "mark": "marking",
+            "paper": "https://pastpapers.wiki/download/27227/2023-2024-a-l/70988/20232024-al-ict-paper-sinhala-medium.pdf",
+            "marking": "https://pastpapers.wiki/download/27430/20232024-al-marking/72518/20232024-al-ict-marking-scheme-sinhala-medium-2.pdf"
+        },
+        {
             "year": "2022",
             "mark": "marking",
             "paper": "https://pastpapers.wiki/download/22285/2022-a-l-past-papers/70015/gce-advanced-level-2022-information-and-communication-technology.pdf",

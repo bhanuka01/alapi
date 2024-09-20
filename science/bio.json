@@ -1,6 +1,19 @@
 ﻿{
     "data": [
         {
+            "year": "2023",
+            "mark": "marking",
+            "paper": "https://pastpapers.wiki/download/27227/2023-2024-a-l/70935/20232024-al-biology-paper-sinhala-medium.pdf",
+            "marking": "https://pastpapers.wiki/download/27430/20232024-al-marking/71284/20232024-al-biology-marking-scheme-sinhala-medium.pdf"
+        },
+        {
+            "year": "2022",
+            "mark": "marking",
+            "paper": "https://pastpapers.wiki/download/22285/2022-a-l-past-papers/69978/gce-advanced-level-2022-biology-sinhala-medium-paper-quick-download.pdf",
+            "marking": "https://pastpapers.wiki/download/24091/2022-a-l-marking-scheme/61213/20222023-al-biology-marking-scheme-sinhala-medium.pdf"
+        },
+        
+        {
             "year": "2021",
             "mark": "marking",
             "paper": "https://pastpapers.wiki/download/14272/2021-a-l-past-papers/52697/2021-al-biology-past-paper-sinhala-medium.pdf",
