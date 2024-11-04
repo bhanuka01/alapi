@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "title": "Maths",
+            "subtitle": "maths ",
+            "head": "",
+            "url": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/newui/MathsStream/maths.json"
+        },
+        {
+            
+            "subtitle": "Physics",
+            "head": "",
+           "url": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/newui/MathsStream/maths.json"
+        },
+        {
+            
+            "subtitle": "Chemisty",
+            "head": "",
+           "url": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/newui/MathsStream/maths.json"
+        }
+
+    
+    ]
+}

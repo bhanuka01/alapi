@@ -1,0 +1,22 @@
+{
+    "data":[
+        {
+            "title":"",
+            "subtitle":"",
+            "head":"Maths",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/stream/mathsstream.json",
+            "img":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/img.png"
+
+        },
+        {
+            "title":"",
+            "subtitle":"",
+            "head":"Biology",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/stream/mathsstream.json",
+            "img":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/couragedisliked/img.jpg"
+
+        }
+    ]
+}
