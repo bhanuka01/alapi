@@ -1,22 +1,44 @@
 {
-    "data":[
+    "data": [
         {
-            "title":"",
-            "subtitle":"",
-            "head":"Maths",
-            "body":"1",
-            "url":"https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/stream/mathsstream.json",
-            "img":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/img.png"
-
+            "title": "",
+            "subtitle": "",
+            "head": "Math Stream",
+            "body": "1",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/stream/mathsstream.json",
+            "img": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/img.png"
         },
         {
-            "title":"",
-            "subtitle":"",
-            "head":"Biology",
-            "body":"1",
-            "url":"https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/stream/mathsstream.json",
-            "img":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/couragedisliked/img.jpg"
-
+            "title": "",
+            "subtitle": "",
+            "head": "Biology Stream",
+            "body": "1",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/stream/mathsstream.json",
+            "img": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/couragedisliked/img.jpg"
+        },
+        {
+            "title": "",
+            "subtitle": "", 
+            "head": "Commerce Stream",
+            "body": "1",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/stream/mathsstream.json",
+            "img": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/couragedisliked/img.jpg"
+        },
+        {
+            "title": "",
+            "subtitle": "",
+            "head": "Technology Stream",
+            "body": "1",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/stream/mathsstream.json",
+            "img": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/couragedisliked/img.jpg"
+        },
+        {
+            "title": "",
+            "subtitle": "",
+            "head": "Art Stream",
+            "body": "1",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/stream/mathsstream.json",
+            "img": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/couragedisliked/img.jpg"
         }
     ]
 }

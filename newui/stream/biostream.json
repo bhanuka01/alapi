@@ -2,9 +2,9 @@
     "data": [
         {
             "title": "Maths",
-            "subtitle": "C Maths",
+            "subtitle": "Biology ",
             "head": "",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/MathsStream/maths.json"
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/BioStream/bio.json"
         },
         {
             
@@ -18,12 +18,11 @@
             "head": "",
            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/MathsStream/chem.json"
         },
-        
         {
-            
-            "subtitle": "ICT",
+            "title": "Maths",
+            "subtitle": "Agry ",
             "head": "",
-           "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/MathsStream/ict.json"
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/BioStream/agry.json"
         }
 
     
