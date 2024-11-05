@@ -1,79 +1,76 @@
 {
-    "data":[
+    "data": [
         {
-            "title":"Physics",
-            "subtitle":"2024",
-            "head":"1",
-            "body":"1",
-            "url":"",
+            "title": "Physics",
+            "subtitle": "2024",
+            "head": "marking",
+            "body": "1",
+            "url": "",
             "paper": "",
             "marking": ""
-
-        },{
+        },
+        {
             "subtitle": "2023",
-            "head":"1",
+            "head": "marking",
             "mark": "marking",
             "paper": "https://pastpapers.wiki/download/27227/2023-2024-a-l/71008/20232024-al-physics-paper-sinhala-medium.pdf",
             "marking": "https://pastpapers.wiki/download/27430/20232024-al-marking/71314/20232024-al-physics-marking-scheme-sinhala-medium.pdf"
         },
-
         {
             "subtitle": "2022",
-            "head":"1",
+            "head": "marking",
             "mark": "marking",
             "paper": "https://pastpapers.wiki/download/22285/2022-a-l-past-papers/69981/gce-advanced-level-2022-physics-sinhala-medium-paper.pdf",
             "marking": "https://pastpapers.wiki/download/24091/2022-a-l-marking-scheme/61204/20222023-al-physics-marking-scheme-sinhala-medium.pdf"
         },
         {
             "subtitle": "2021",
-            "head":"1",
+            "head": "marking",
             "mark": "marking",
             "paper": "https://pastpapers.wiki/download/14272/2021-a-l-past-papers/52726/2021-al-physics-past-paper-sinhala-medium.pdf",
             "marking": "https://pastpapers.wiki/download/18376/2021-a-l-markings/57827/2021-al-physics-marking-scheme-sinhala-medium-2.pdf"
         },
         {
             "subtitle": "2020",
-            "head":"1",
+            "head": "marking",
             "mark": "marking",
             "paper": "https://pastpapers.wiki/download/7820/gce-a-l/28816/general-certificate-of-education-advanced-level-examination-2020-august-new-syllabus-physics",
             "marking": "https://pastpapers.wiki/download/10405/sinhala/19925/2020-a-l-physics-marking-scheme-sinhala-medium.pdf"
         },
         {
             "subtitle": "2019",
-            "head":"1",
+            "head": "marking",
             "mark": "marking",
             "paper": "https://pastpapers.wiki/download/7820/gce-a-l/28779/2019-ppr-new.pdf",
             "marking": "https://pastpapers.wiki/download/7820/gce-a-l/28735/2019.pdf"
         },
         {
             "subtitle": "2018",
-            "head":"1",
+            "head": "marking",
             "mark": "marking",
             "paper": "https://pastpapers.wiki/download/7820/gce-a-l/28776/2018-ppr.pdf",
             "marking": "https://pastpapers.wiki/download/7820/gce-a-l/28733/2018-2.pdf"
         },
         {
             "subtitle": "2017",
-            "head":"1",
+            "head": "marking",
             "mark": "marking",
             "paper": "https://pastpapers.wiki/download/7820/gce-a-l/28775/2017-ppr.pdf",
             "marking": "https://pastpapers.wiki/download/7820/gce-a-l/28740/2017-3.pdf"
         },
         {
             "subtitle": "2016",
-            "head":"1",
+            "head": "1",
             "mark": "marking",
             "paper": "https://pastpapers.wiki/download/7820/gce-a-l/28777/2016-ppr.pdf",
             "marking": "https://pastpapers.wiki/download/7820/gce-a-l/28741/2016-2.pdf"
         },
         {
             "subtitle": "2015",
-            "head":"1",
+            "head": "marking",
             "mark": "marking",
             "paper": "https://pastpapers.wiki/download/7820/gce-a-l/28778/2015-ppr.pdf",
             "marking": "https://pastpapers.wiki/download/7820/gce-a-l/28732/2015-2.pdf"
         }
-
-
     ]
 }
