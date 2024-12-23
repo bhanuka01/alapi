@@ -3,7 +3,7 @@
         {
             "title": "",
             "subtitle": "",
-            "head": "O/L",
+            "head": "A/L",
             "body": "1",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/home.json",
             "img": "https://i.pinimg.com/736x/ac/c9/7c/acc97c4f6ba2fc68266b7e687511abca.jpg"
@@ -11,9 +11,9 @@
         {
             "title": "",
             "subtitle": "",
-            "head": "A/L",
-            "body": "2",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/stream/mathsstream.json",
+            "head": "O/L",
+            "body": "1",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/home.json",
             "img": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/couragedisliked/img.jpg"
         }
     ]
