@@ -1,22 +1,22 @@
 {
     "data": [
         {
-            "title": "Maths",
-            "subtitle": "maths ",
+            "title": "Commerce Stream",
+            "subtitle": "Accounting ",
             "head": "",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/MathsStream/maths.json"
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/CommerceStream/account.json"
         },
         {
             
-            "subtitle": "Physics",
+            "subtitle": "Business Studies", 
             "head": "",
-           "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/MathsStream/maths.json"
+           "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/CommerceStream/business.json"
         },
         {
             
-            "subtitle": "Chemisty",
+            "subtitle": "Economics",
             "head": "",
-           "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/MathsStream/maths.json"
+           "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/CommerceStream/economics.json"
         }
 
     

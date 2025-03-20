@@ -13,7 +13,7 @@
             "subtitle": "",
             "head": "Science",
             "body": "1",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/stream/mathsstream.json",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/science.json",
             "img": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/couragedisliked/img.jpg"
         },
         {
@@ -21,7 +21,7 @@
             "subtitle": "", 
             "head": "Commerce",
             "body": "1",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/stream/mathsstream.json",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/commerce.json",
             "img": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/couragedisliked/img.jpg"
         },
         {
@@ -29,7 +29,7 @@
             "subtitle": "",
             "head": "ICT",
             "body": "2",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/stream/mathsstream.json",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/ict.json",
             "img": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/couragedisliked/img.jpg"
         },
         {
@@ -37,7 +37,7 @@
             "subtitle": "",
             "head": "English",
             "body": "2",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/stream/mathsstream.json",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/english.json",
             "img": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/couragedisliked/img.jpg"
         }
     ]
