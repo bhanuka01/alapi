@@ -1,14 +1,13 @@
 {
     "data":[
         {
-            "title":"Maths",
+            "title":"Science",
             "subtitle":"2024",
             "head":"marking",
             "body":"1",
             "url":"",
             "paper": "",
             "marking": ""
-
         },{
             "subtitle": "2023",
             "head":"marking",
@@ -44,7 +43,5 @@
             "paper": "",
             "marking": ""
         }
-
-
     ]
 }

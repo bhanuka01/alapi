@@ -3,41 +3,41 @@
         {
             "title": "",
             "subtitle": "",
-            "head": "Math",
-            "body": "1",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/maths.json",
+            "head": "English",
+            "body": "2",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/english.json",
             "img": "https://i.pinimg.com/736x/ac/c9/7c/acc97c4f6ba2fc68266b7e687511abca.jpg"
         },
         {
             "title": "",
             "subtitle": "",
-            "head": "Science",
-            "body": "1",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/science.json",
+            "head": "History",
+            "body": "2",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/history.json",
             "img": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/couragedisliked/img.jpg"
         },
         {
             "title": "",
             "subtitle": "", 
-            "head": "Commerce",
-            "body": "1",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/commerce.json",
+            "head": "Maths",
+            "body": "2",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/commathsmerce.json",
             "img": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/couragedisliked/img.jpg"
         },
         {
             "title": "",
             "subtitle": "",
-            "head": "ICT",
+            "head": "Science",
             "body": "2",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/ict.json",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/science.json",
             "img": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/couragedisliked/img.jpg"
         },
         {
             "title": "",
             "subtitle": "",
-            "head": "English",
+            "head": "Sinhala",
             "body": "2",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/english.json",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/sinhala.json",
             "img": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/couragedisliked/img.jpg"
         }
     ]
