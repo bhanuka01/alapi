@@ -1,11 +1,10 @@
 {
     "data": [
-
         {
             "title": "",
             "subtitle": "",
             "head": "Sinhala",
-            "body": "2",
+            "body": "3",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/sinhala.json",
             "img": ""
         },
@@ -13,7 +12,7 @@
             "title": "",
             "subtitle": "",
             "head": "English",
-            "body": "2",
+            "body": "3",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/english.json",
             "img": ""
         },
@@ -21,7 +20,7 @@
             "title": "",
             "subtitle": "",
             "head": "Mathematics",
-            "body": "2",
+            "body": "3",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/maths.json",
             "img": ""
         },
@@ -29,7 +28,7 @@
             "title": "",
             "subtitle": "",
             "head": "Science",
-            "body": "2",
+            "body": "3",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/science.json",
             "img": ""
         },
@@ -37,7 +36,7 @@
             "title": "",
             "subtitle": "",
             "head": "History",
-            "body": "2",
+            "body": "3",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/history.json",
             "img": ""
         },
@@ -45,7 +44,7 @@
             "title": "",
             "subtitle": "",
             "head": "Agriculture",
-            "body": "2",
+            "body": "3",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/agriculture.json",
             "img": ""
         },
@@ -53,7 +52,7 @@
             "title": "",
             "subtitle": "",
             "head": "Art",
-            "body": "2",
+            "body": "3",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/art.json",
             "img": ""
         },
@@ -61,7 +60,7 @@
             "title": "",
             "subtitle": "",
             "head": "Commerce",
-            "body": "2",
+            "body": "3",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/commerce.json",
             "img": ""
         },
@@ -69,7 +68,7 @@
             "title": "",
             "subtitle": "",
             "head": "Dancing",
-            "body": "2",
+            "body": "3",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/dancing.json",
             "img": ""
         },
@@ -77,7 +76,7 @@
             "title": "",
             "subtitle": "",
             "head": "Design Technology",
-            "body": "2",
+            "body": "3",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/design_technology.json",
             "img": ""
         },
@@ -85,16 +84,15 @@
             "title": "",
             "subtitle": "",
             "head": "Drama",
-            "body": "2",
+            "body": "3",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/drama.json",
             "img": ""
         },
-        
         {
             "title": "",
             "subtitle": "",
             "head": "English Literature",
-            "body": "2",
+            "body": "3",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/english_lit.json",
             "img": ""
         },
@@ -102,7 +100,7 @@
             "title": "",
             "subtitle": "",
             "head": "Geography",
-            "body": "2",
+            "body": "3",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/geography.json",
             "img": ""
         },
@@ -110,16 +108,15 @@
             "title": "",
             "subtitle": "",
             "head": "Health Science",
-            "body": "2",
+            "body": "3",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/health_science.json",
             "img": ""
         },
-        
         {
             "title": "",
             "subtitle": "",
             "head": "Home Economics",
-            "body": "2",
+            "body": "3",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/home_economics.json",
             "img": ""
         },
@@ -127,26 +124,23 @@
             "title": "",
             "subtitle": "",
             "head": "ICT",
-            "body": "2",
+            "body": "3",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/ict.json",
             "img": ""
         },
-       
         {
             "title": "",
             "subtitle": "",
             "head": "Music",
-            "body": "2",
+            "body": "3",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/music.json",
             "img": ""
         },
-       
-        
         {
             "title": "",
             "subtitle": "",
             "head": "Sinhala Literature",
-            "body": "2",
+            "body": "3",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/sinhala_lit.json",
             "img": ""
         },
@@ -154,7 +148,7 @@
             "title": "",
             "subtitle": "",
             "head": "Tamil",
-            "body": "2",
+            "body": "3",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/tamil.json",
             "img": ""
         }
