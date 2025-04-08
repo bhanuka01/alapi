@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "title": "",
+            "subtitle": "",
+            "head": "Buddhism",
+            "body": "2",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/Religion/Buddhism.json",
+            "img": ""
+        },
+        {
+            "title": "",
+            "subtitle": "",
+            "head": "Saivanery",
+            "body": "2",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/Religion/Saivanery.json",
+            "img": ""
+        },
+        {
+            "title": "",
+            "subtitle": "",
+            "head": "Catholicism",
+            "body": "2",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/Religion/Catholicism.json",
+            "img": ""
+        },
+        {
+            "title": "",
+            "subtitle": "",
+            "head": "Christianity",
+            "body": "2",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/Religion/Christianity.json",
+            "img": ""
+        },
+        {
+            "title": "",
+            "subtitle": "",
+            "head": "Islam",
+            "body": "2",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/Religion/Islam.json",
+            "img": ""
+        }
+    ]
+}
