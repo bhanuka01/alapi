@@ -23,7 +23,22 @@
             "body": "2",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/stream/commstream.json",
             "img": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/couragedisliked/img.jpg"
+        },
+        {
+            "title": "",
+            "subtitle": "",
+            "head": "Technology Stream",
+            "body": "2",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/stream/techstream.json",
+            "img": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/couragedisliked/img.jpg"
+        },
+        {
+            "title": "",
+            "subtitle": "",
+            "head": "Art Stream",
+            "body": "2",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/stream/artstream.json",
+            "img": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/couragedisliked/img.jpg"
         }
-        
     ]
 }
