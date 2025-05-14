@@ -2,8 +2,9 @@
     "data": [
         {
             "title": "Tech",
-            "subtitle": "SFT",
-            "head": "",
+            "head": "SFT",
+            "subtitle": "Science for Technology",
+            
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/TechStream/sft.json"
         },
         {
