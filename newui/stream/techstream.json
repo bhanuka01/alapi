@@ -9,28 +9,28 @@
         },
         {
             
-            "subtitle": "ET",
-            "head": "",
+            "head": "ET",
+            "subtitle": "",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/TechStream/eng_tech.json"
         },
         
         {
             
-            "subtitle": "BST",
-            "head": "",
+            "head": "BST",
+            "subtitle": "",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/TechStream/bio_tech.json"
         },
         
         {
            
-            "subtitle": "BRT ",
-            "head": "",
+            "head": "BRT ",
+            "subtitle": "",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/TechStream/bio_resource.json"
         },
         {
             
-            "subtitle": "AT ",
-            "head": "",
+            "head": "AT ",
+            "subtitle": "",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/TechStream/agro_tech.json"
         }
     ]
