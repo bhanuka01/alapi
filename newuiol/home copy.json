@@ -39,7 +39,14 @@
             "body": "3",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/history.json",
             "img": ""
+        },
+        {
+            "title": "",
+            "subtitle": "",
+            "head": "Religion ",
+            "body": "2",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/Religion/home.json",
+            "img": ""
         }
-        
     ]
 }
