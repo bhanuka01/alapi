@@ -1,0 +1,47 @@
+{
+    "data":[
+        {
+            "title":"Science",
+            "subtitle":"2024",
+            "head":"No",
+            "body":"1",
+            "url":"",
+            "paper": "https://pastpapers.wiki/download/32005/20242025-o-l-past-papers/86991/20242025-ol-science-past-paper.pdf",
+            "marking": ""
+        },{
+            "subtitle": "2023",
+            "head":"marking",
+            "mark": "marking",
+            "paper": "https://pastpapers.wiki/download/27796/20232024-o-l/85659/20232024-ol-science-past-paper-and-answers-3.pdf",
+            "marking": "https://pastpapers.wiki/download/27796/20232024-o-l/85661/20232024-ol-science-marking-scheme-sinhala-medium-2.pdf"
+        },
+        {
+            "subtitle": "2022",
+            "head":"marking",
+            "mark": "marking",
+            "paper": "https://pastpapers.wiki/download/23693/20222023-o-l/71653/20222023-ol-science-past-paper-and-answers-3.pdf",
+            "marking": "https://pastpapers.wiki/download/23693/20222023-o-l/64911/20222023-o-l-science-marking-scheme-sinhala-medium.pdf"
+        },
+        {
+            "subtitle": "2021",
+            "head":"marking",
+            "mark": "marking",
+            "paper": "https://pastpapers.wiki/download/8050/2021-o-l/64998/2021-ol-science-past-paper-and-answers-sinhala-medium-2.pdf",
+            "marking": "https://pastpapers.wiki/download/8050/2021-o-l/54319/2021-ol-science-marking-scheme-sinhala-medium.pdf"
+        },
+        {
+            "subtitle": "2020",
+            "head":"marking",
+            "mark": "marking",
+            "paper": "https://pastpapers.wiki/download/8049/2020-o-l/37982/2020-ol-science-past-paper-and-answers-sinhala-medium.pdf",
+            "marking": "https://pastpapers.wiki/download/8049/2020-o-l/34765/2020-ol-science-marking-scheme-sinhala-medium.pdf"
+        },
+        {
+            "subtitle": "2019",
+            "head":"marking",
+            "mark": "marking",
+            "paper": "https://drive.google.com/uc?export=download&id=1fuTaQ6WzWrRkk8HeeswQN5CxCRKmoWxz",
+            "marking": "https://drive.google.com/uc?export=download&id=1JAfoiEP1m098QY_YsdvXZpS6CfqI5cf2"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "title": "Commerce Stream",
+            "subtitle": "Accounting ",
+            "head": "",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/al25/CommerceStream/account.json"
+        },
+        {
+            
+            "subtitle": "Business Studies", 
+            "head": "",
+           "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/al25/CommerceStream/business.json"
+        },
+        {
+            
+            "subtitle": "Economics",
+            "head": "",
+           "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/al25/CommerceStream/economics.json"
+        }
+
+    
+    ]
+}
