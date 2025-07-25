@@ -1,27 +1,29 @@
 {
     "data": [
         {
-            "title": "Maths",
-            "subtitle": "C Maths",
+            "pageName":"Maths",
+            "title": "Comb. Maths",
+            "subtitle": "X+Y=Goal",
             "head": "",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/MathsStream/maths.json"
         },
         {
-            
-            "subtitle": "Physics",
+            "title": "Physics",
+            "subtitle": "E=MC^2",
             "head": "",
            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/MathsStream/phy.json"
         },
         {
+            "title": "Chemisty",
             
-            "subtitle": "Chemisty",
+            "subtitle": "CH4",
             "head": "",
            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/MathsStream/chem.json"
         },
         
         {
-            
-            "subtitle": "ICT",
+            "title": "ICT",
+            "subtitle": "some info face",
             "head": "",
            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/MathsStream/ict.json"
         }
