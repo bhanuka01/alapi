@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "title": "Tech",
+            "head": "SFT",
+            "subtitle": "Science for Technology",
+            
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/al25/TechStream/sft.json"
+        },
+        {
+            
+            "head": "ET",
+            "subtitle": "",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/al25/TechStream/eng_tech.json"
+        },
+        
+        {
+            
+            "head": "BST",
+            "subtitle": "",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/al25/TechStream/bio_tech.json"
+        },
+        
+        {
+           
+            "head": "BRT ",
+            "subtitle": "",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/al25/TechStream/bio_resource.json"
+        },
+        {
+            
+            "head": "AT ",
+            "subtitle": "",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/al25/TechStream/agro_tech.json"
+        }
+    ]
+}

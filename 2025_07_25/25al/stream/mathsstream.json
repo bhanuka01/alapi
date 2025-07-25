@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "title": "Maths",
+            "subtitle": "C Maths",
+            "head": "",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/25al/MathsStream/maths.json"
+        },
+        {
+            
+            "subtitle": "Physics",
+            "head": "",
+           "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/25al/MathsStream/phy.json"
+        },
+        {
+            
+            "subtitle": "Chemisty",
+            "head": "",
+           "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/25al/MathsStream/chem.json"
+        },
+        
+        {
+            
+            "subtitle": "ICT",
+            "head": "",
+           "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/25al/MathsStream/ict.json"
+        }
+
+    
+    ]
+}

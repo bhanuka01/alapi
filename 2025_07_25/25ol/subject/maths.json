@@ -1,0 +1,42 @@
+{
+    "data":[
+        {
+            "title":"Maths",
+            "subtitle": "2023",
+            "head":"marking",
+            "mark": "marking",
+            "paper": "https://pastpapers.wiki/download/27796/20232024-o-l/85611/20232024-ol-mathematics-past-paper-in-sinhala-medium-2.pdf",
+            "marking": "https://pastpapers.wiki/download/27796/20232024-o-l/85610/20232024-ol-maths-marking-scheme-sinhala-medium-2.pdf"
+        },
+        {
+            "subtitle": "2022",
+            "head":"marking",
+            "mark": "marking",
+            "paper": "https://pastpapers.wiki/download/23693/20222023-o-l/71634/20222023-ol-mathematics-past-paper-and-answers-sinhala-medium-2.pdf",
+            "marking": "https://pastpapers.wiki/download/23693/20222023-o-l/64898/20222023-o-l-maths-marking-scheme-sinhala-medium.pdf"
+        },
+        {
+            "subtitle": "2021",
+            "head":"marking",
+            "mark": "marking",
+            "paper": "https://pastpapers.wiki/download/23693/20222023-o-l/71636/2021-ol-mathematics-past-paper-and-answers-sinhala-medium-3.pdf",
+            "marking": "https://pastpapers.wiki/download/8050/2021-o-l/54327/2021-ol-maths-marking-scheme-sinhala-medium.pdf"
+        },
+        {
+            "subtitle": "2020",
+            "head":"marking",
+            "mark": "marking",
+            "paper": "https://pastpapers.wiki/download/23693/20222023-o-l/71642/2020-ol-mathematics-past-paper-and-answers-sinhala-medium-3.pdf",
+            "marking": "https://pastpapers.wiki/download/8049/2020-o-l/34733/2020-ol-mathematics-marking-scheme-sinhala-medium.pdf"
+        },
+        {
+            "subtitle": "2019",
+            "head":"marking",
+            "mark": "marking",
+            "paper": "https://papers.agaram.lk/sn/wp-content/uploads/sites/7/2022/10/SPc_G002_19_Dec_11_Mathematics.pdf",
+            "marking": "https://pastpapers.wiki/download/8048/2019-o-l/32532/2019-ol-mathematics-marking-scheme-in-sinhala-medium.pdf"
+        }
+
+
+    ]
+}

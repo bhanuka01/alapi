@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "title": "O/L",
+            "subtitle": "",
+            "head": "Sinhala",
+            "body": "3",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/sinhala.json",
+            "img": ""
+        },
+        {
+            "title": "",
+            "subtitle": "",
+            "head": "English",
+            "body": "3",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/english.json",
+            "img": ""
+        },
+        {
+            "title": "",
+            "subtitle": "",
+            "head": "Mathematics",
+            "body": "3",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/maths.json",
+            "img": ""
+        },
+        {
+            "title": "",
+            "subtitle": "",
+            "head": "Science",
+            "body": "3",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/science.json",
+            "img": ""
+        },
+        {
+            "title": "",
+            "subtitle": "",
+            "head": "History",
+            "body": "3",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/history.json",
+            "img": ""
+        }
+    ]
+}

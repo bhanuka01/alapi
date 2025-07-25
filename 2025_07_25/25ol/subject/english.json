@@ -1,0 +1,51 @@
+{
+    "data":[
+        {
+            "title":"English",
+            "subtitle":"2024",
+            "head":"No",
+            "body":"1",
+            "url":"",
+            "paper": "https://pastpapers.wiki/download/32005/20242025-o-l-past-papers/86905/20242025-ol-english-past-paper.pdf",
+            "marking": ""
+        },
+        {
+            "subtitle": "2023",
+            "head":"marking",
+            "mark": "marking",
+            "paper": "https://pastpapers.wiki/download/27796/20232024-o-l/85427/20232024-ol-english-language-past-paper-and-answers-2.pdf",
+            "marking": "https://pastpapers.wiki/download/27796/20232024-o-l/85426/20232024-ol-english-marking-scheme-english-medium-4.pdf"
+        },
+        {
+            "subtitle": "2022",
+            "head":"marking",
+            "mark": "marking",
+            "paper": "https://pastpapers.wiki/download/23693/20222023-o-l/71963/20222023-ol-english-past-paper-and-answers.pdf",
+            "marking": "https://pastpapers.wiki/download/23693/20222023-o-l/64931/2021-o-l-english-marking-scheme.pdf"
+        },
+        {
+            "subtitle": "2021",
+            "head":"marking",
+            "mark": "marking",
+            "paper": "https://pastpapers.wiki/download/8050/2021-o-l/61291/english2021.pdf",
+            "marking": "https://pastpapers.wiki/download/8050/2021-o-l/57710/2021-ol-english-language-marking-scheme.pdf"
+        },
+        {
+            "subtitle": "2020",
+            "head":"marking",
+            "mark": "marking",
+            "paper": "https://pastpapers.wiki/download/8049/2020-o-l/38475/2020-ol-english-language-past-paper-and-answers.pdf",
+            "marking": "https://pastpapers.wiki/download/8049/2020-o-l/34841/2020-ol-english-language-marking-scheme.pdf"
+        },
+        {
+            "subtitle": "2019",
+            "head":"marking",
+            "mark": "marking",
+            "paper": "https://pastpapers.wiki/download/8048/2019-o-l/35840/gce-ol-english-paper-with-answers-2019.pdf",
+            "marking": "https://pastpapers.wiki/download/8048/2019-o-l/32710/2019-ol-english-language-marking-scheme-english-medium.pdf"
+        }
+        
+        
+
+    ]
+}

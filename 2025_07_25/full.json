@@ -1,0 +1,21 @@
+{
+    "data": [
+        {
+            "title": "",
+            "subtitle": "Welcom to A/L",
+            "head": "A/L",
+            "body": "1",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/home.json",
+            "version": "2.5.0"
+            
+        },
+        {
+            "title": "",
+            "subtitle": "",
+            "head": "O/L",
+            "body": "1",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/home.json"
+            
+        }
+    ]
+}

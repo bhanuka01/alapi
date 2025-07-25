@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "title": "Biology",
+            "subtitle": "Biology ",
+            "head": "",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/al25/BioStream/bio.json"
+        },
+        {
+            
+            "subtitle": "Physics",
+            "head": "",
+           "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/al25/MathsStream/phy.json"
+        },
+        {
+            
+            "subtitle": "Chemisty",
+            "head": "",
+           "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/al25/MathsStream/chem.json"
+        },
+        {
+            "title": "Maths",
+            "subtitle": "Agry ",
+            "head": "",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/al25/BioStream/agry.json"
+        }
+
+    
+    ]
+}
