@@ -5,12 +5,14 @@
             "title": "Comb. Maths",
             "subtitle": "X+Y=Goal",
             "head": "",
+            "body":"41",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/MathsStream/maths.json"
         },
         {
             "title": "Physics",
             "subtitle": "E=MC^2",
             "head": "",
+            "body":"41",
            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/MathsStream/phy.json"
         },
         {
@@ -18,6 +20,7 @@
             
             "subtitle": "CH4",
             "head": "",
+            "body":"41",
            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/MathsStream/chem.json"
         },
         
@@ -25,6 +28,7 @@
             "title": "ICT",
             "subtitle": "some info face",
             "head": "",
+            "body":"41",
            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/MathsStream/ict.json"
         }
 
