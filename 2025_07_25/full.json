@@ -1,18 +1,18 @@
 {
     "data": [
         {
-            "title": "",
+            "title": "A/L",
             "subtitle": "Welcom to A/L1",
-            "head": "A/L",
+            "head": "",
             "body": "21",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/home.json",
             "version": "2.5.0"
             
         },
         {
-            "title": "",
+            "title": "A/L",
             "subtitle": "",
-            "head": "O/L",
+            "head": "",
             "body": "21",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/home.json"
             
