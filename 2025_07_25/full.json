@@ -5,7 +5,7 @@
             "subtitle": "Welcom to A/L",
             "head": "A/L",
             "body": "1",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/home.json",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/home.json",
             "version": "2.5.0"
             
         },
@@ -14,7 +14,7 @@
             "subtitle": "",
             "head": "O/L",
             "body": "1",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/home.json"
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/home.json"
             
         }
     ]
