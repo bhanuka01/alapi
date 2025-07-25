@@ -4,26 +4,26 @@
             "title": "Maths",
             "subtitle": "C Maths",
             "head": "",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/25al/MathsStream/maths.json"
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/MathsStream/maths.json"
         },
         {
             
             "subtitle": "Physics",
             "head": "",
-           "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/25al/MathsStream/phy.json"
+           "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/MathsStream/phy.json"
         },
         {
             
             "subtitle": "Chemisty",
             "head": "",
-           "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/25al/MathsStream/chem.json"
+           "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/MathsStream/chem.json"
         },
         
         {
             
             "subtitle": "ICT",
             "head": "",
-           "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/25al/MathsStream/ict.json"
+           "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/MathsStream/ict.json"
         }
 
     
