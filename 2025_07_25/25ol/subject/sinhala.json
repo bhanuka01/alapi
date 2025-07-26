@@ -1,39 +1,40 @@
 {
     "data":[
         {
-            "title":"Sinhala",
+            "pageName": "Sinhala",
+            "title":"",
           
-            "subtitle": "2023",
-            "head":"marking",
-            "mark": "marking",
+            "year_text": "2023",
+            
+            "marking_text": "marking",
             "paper": "https://pastpapers.wiki/download/27796/20232024-o-l/85684/20232024-ol-sinhala-language-past-paper-and-answers-2.pdf",
             "marking": "https://pastpapers.wiki/download/27796/20232024-o-l/85683/20232024-ol-sinhala-marking-scheme-sinhala-medium-2.pdf"
         },
         {
-            "subtitle": "2022",
-            "head":"marking",
-            "mark": "marking",
+            "year_text": "2022",
+            
+            "marking_text": "marking",
             "paper": "https://pastpapers.wiki/download/23693/20222023-o-l/60918/ordinary-level-sinhala-language-paper-and-answers-20222023.pdf",
             "marking": "https://pastpapers.wiki/download/23693/20222023-o-l/64916/20222023-o-l-sinhala-marking-scheme.pdf"
         },
         {
-            "subtitle": "2021",
-            "head":"marking",
-            "mark": "marking",
+            "year_text": "2021",
+            
+            "marking_text": "marking",
             "paper": "https://pastpapers.wiki/download/8050/2021-o-l/64988/2021-ol-sinhala-language-past-paper-and-answers-2.pdf",
             "marking": "https://pastpapers.wiki/download/23316/cdn/59859/2021-o-l-sinhala-language-literature-marking-scheme-2.pdf"
         },
         {
-            "subtitle": "2020",
-            "head":"marking",
-            "mark": "marking",
+            "year_text": "2020",
+            
+            "marking_text": "marking",
             "paper": "https://pastpapers.wiki/download/8049/2020-o-l/37986/2020-ol-sinhala-language-past-paper-and-answers-2.pdf",
             "marking": "https://pastpapers.wiki/download/8049/2020-o-l/34777/2020-ol-sinhala-language-literature-marking-scheme.pdf"
         },
         {
-            "subtitle": "2019",
-            "head":"marking",
-            "mark": "marking",
+            "year_text": "2019",
+            
+            "marking_text": "marking",
             "paper": "https://pastpapers.wiki/download/8048/2019-o-l/86231/9-sinhala-la-literature-2019-s.pdf",
             "marking": "https://pastpapers.wiki/download/8048/2019-o-l/32333/2019-ol-sinhala-language-literature-marking-scheme-sinhala-medium.pdf"
         }
