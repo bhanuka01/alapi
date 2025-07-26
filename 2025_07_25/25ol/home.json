@@ -1,43 +1,44 @@
 {
     "data": [
         {
-            "title": "O/L",
-            "subtitle": "",
-            "head": "Sinhala",
-            "body": "3",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/sinhala.json",
+            "pageName": "O/L",
+            "title": "Sinhala",
+            "subtitle": "Language & Literature Mastery",
+            "head": "",
+            "body": "41",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25ol/subject/sinhala.json",
             "img": ""
         },
         {
-            "title": "",
-            "subtitle": "",
-            "head": "English",
-            "body": "3",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/english.json",
+            "title": "English",
+            "subtitle": "Global Communication Skills",
+            "head": "",
+            "body": "41",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25ol/subject/english.json",
             "img": ""
         },
         {
-            "title": "",
-            "subtitle": "",
-            "head": "Mathematics",
-            "body": "3",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/maths.json",
+            "title": "Mathematics",
+            "subtitle": "Problem Solving Essentials",
+            "head": "",
+            "body": "41",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25ol/subject/maths.json",
             "img": ""
         },
         {
-            "title": "",
-            "subtitle": "",
-            "head": "Science",
-            "body": "3",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/science.json",
+            "title": "Science",
+            "subtitle": "Exploring Natural World",
+            "head": "",
+            "body": "41",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25ol/subject/science.json",
             "img": ""
         },
         {
-            "title": "",
-            "subtitle": "",
-            "head": "History",
-            "body": "3",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newuiol/subject/history.json",
+            "title": "History",
+            "subtitle": "Understanding Our Past",
+            "head": "",
+            "body": "41",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25ol/subject/history.json",
             "img": ""
         }
     ]
