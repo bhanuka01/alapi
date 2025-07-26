@@ -1,73 +1,73 @@
 {
     "data": [
         {
-            "title": "ICT",
-            "subtitle": "2024",
-            "head": "marking",
+            "pageName": "ICT",
+            "year_text": "2024",
+            "marking_text": "marking",
             "body": "1",
             "url": "",
             "paper": "",
             "marking": ""
         },
         {
-            "subtitle": "2023",
-            "head": "marking",
+            "year_text": "2023",
+            "marking_text": "marking",
             "mark": "marking",
             "paper": "https://pastpapers.wiki/download/27227/2023-2024-a-l/70988/20232024-al-ict-paper-sinhala-medium.pdf",
             "marking": "https://pastpapers.wiki/download/27430/20232024-al-marking/72518/20232024-al-ict-marking-scheme-sinhala-medium-2.pdf"
         },
         {
-            "subtitle": "2022",
-            "head": "marking",
+            "year_text": "2022",
+            "marking_text": "marking",
             "mark": "marking",
             "paper": "https://pastpapers.wiki/download/22285/2022-a-l-past-papers/70015/gce-advanced-level-2022-information-and-communication-technology.pdf",
             "marking": "https://drive.google.com/uc?export=download&id=11Erxr4rk2M99Tzh1gui59Vjx1z9KUyvz"
         },
         {
-            "subtitle": "2021",
-            "head": "marking",
+            "year_text": "2021",
+            "marking_text": "marking",
             "mark": "marking",
             "paper": "https://pastpapers.wiki/download/14272/2021-a-l-past-papers/52818/2021-al-ict-past-paper-sinhala-medium.pdf",
             "marking": "https://pastpapers.wiki/download/18376/2021-a-l-markings/58036/2021-a-l-ict-marking-scheme-sinhala-medium.pdf"
         },
         {
-            "subtitle": "2020",
-            "head": "marking",
+            "year_text": "2020",
+            "marking_text": "marking",
             "mark": "marking",
             "paper": "https://pastpapers.wiki/download/22928/2020-a-l/62093/2020-al-ict-past-paper-sinhala-medium.pdf",
             "marking": "https://pastpapers.wiki/download/10405/sinhala/19987/2020-a-l-information-and-communication-technology-marking-scheme-sinhala-medium.pdf"
         },
         {
-            "subtitle": "2019",
+            "year_text": "2019",
             "mark": "marking",
-            "head": "marking",
+            "marking_text": "marking",
             "paper": "https://pastpapers.wiki/download/22920/2019-a-l/62085/2019-al-ict-past-paper-sinhala-medium.pdf",
             "marking": "https://pastpapers.wiki/download/22920/2019-a-l/62136/2019-a-l-ict-marking-scheme-sinhala-medium.pdf"
         },
         {
-            "subtitle": "2018",
-            "head": "marking",
+            "year_text": "2018",
+            "marking_text": "marking",
             "mark": "marking",
             "paper": "https://pastpapers.wiki/download/22915/2018-a-l/62081/2018-a-l-ict-past-paper-sinhala-medium.pdf",
             "marking": "https://pastpapers.wiki/download/22915/2018-a-l/62131/2018-a-l-ict-marking-scheme-sinhala-medium.pdf"
         },
         {
-            "subtitle": "2017",
-            "head": "marking",
+            "year_text": "2017",
+            "marking_text": "marking",
             "mark": "marking",
             "paper": "https://pastpapers.wiki/download/22700/2017-a-l/62077/2017-a-l-ict-past-paper-sinhala-medium.pdf",
             "marking": "https://pastpapers.wiki/download/22700/2017-a-l/62126/2017-al-ict-marking-scheme-sinhala-medium.pdf"
         },
         {
-            "subtitle": "2016",
-            "head": "marking",
+            "year_text": "2016",
+            "marking_text": "marking",
             "mark": "marking",
             "paper": "https://pastpapers.wiki/download/22697/2016-a-l/62073/2016-al-ict-past-paper-sinhala-medium.pdf",
             "marking": "https://pastpapers.wiki/download/22697/2016-a-l/62121/2016-a-l-ict-marking-scheme-sinhala-medium.pdf"
         },
         {
-            "subtitle": "2015",
-            "head": "marking",
+            "year_text": "2015",
+            "marking_text": "marking",
             "mark": "marking",
             "paper": "https://pastpapers.wiki/download/22694/2015-a-l/62069/2015-al-ict-past-paper-sinhala-medium.pdf",
             "marking": "https://ict-sinhala.com/wp-content/uploads/2022/11/Marking-Scheme-2015.pdf"
