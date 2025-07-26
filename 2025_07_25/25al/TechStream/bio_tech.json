@@ -1,27 +1,17 @@
 {
     "data": [
-        {
-            "title": "BioSystems Technology",
-            "subtitle": "2024",
-            "head": "marking",
-            "body": "1",
-            "url": "",
-            "paper": "",
-            "marking": ""
-        },
-        {
-            "subtitle": "2023",
-            "head": "marking",
-            "mark": "marking",
-            "paper": "https://pastpapers.wiki/download/27227/2023-2024-a-l/70928/20232024-al-biosystems-technology-paper-sinhala-medium.pdf",
-            "marking": "https://pastpapers.wiki/download/27430/20232024-al-marking/71287/20232024-al-biosystems-technology-marking-scheme-sinhala-medium.pdf"
-        },
-        {
-            "subtitle": "2022",
-            "head": "marking",
-            "mark": "marking",
-            "paper": "https://pastpapers.wiki/download/22285/2022-a-l-past-papers/69988/gce-advanced-level-2022-biosystems-technology-sinhala-medium-paper.pdf",
-            "marking": "https://pastpapers.wiki/download/24091/2022-a-l-marking-scheme/61334/20222023-al-biosystems-technology-marking-scheme-sinhala-medium.pdf"
+        
+            {
+            "pageName": "BioSystems Technology",
+            "year_text": "2019--",
+            "mcq_text":"MCQ",
+            "part_text":"Part",
+           "marking_text": "Marking",
+            
+            
+            "mcq": "https://www.alevelapi.com/wp-content/uploads/2018/10/2019-AL-SFT-PART-I-MCQ-PAPER-NEW-SYLLABUS-SINHALA-MEDIUM-AlevelApi-PDF.pdf",
+            "part": "https://www.alevelapi.com/wp-content/uploads/2018/10/2019-AL-SFT-PART-II-PAPER-NEW-SYLLABUS-SINHALA-MEDIUM-AlevelApi-PDF.pdf",
+            "marking": "https://www.alevelapi.com/wp-content/uploads/2018/10/2019-AL-SFT-MARKING-SCHEME-NEW-OLD-SYLLABUS-SINHALA-MEDIUM-AlevelApi-PDF.pdf"
         }
     ]
 }

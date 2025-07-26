@@ -1,93 +1,78 @@
 {
     "data": [
         {
-            "title": "SFT",
-            "subtitle": "2024",
-            "head": "MCQ",
-            "body": "1",
-            "url": "",
-            "paper": "",
-            "marking": "https://www.alevelapi.com/wp-content/uploads/2025/01/2024-AL-SFT-PART-I-MCQ-PAPER-SINHALA-MEDIUM-AlevelApi-PDF.pdf"
-        },
-        {
-            "subtitle": "Part II",
-            "head": "marking",
+            "pageName": "SFT",
+            "year_text": "2024",
+            "mcq_text":"MCQ",
+            "part_text":"Part",
+           "marking_text": "Marking",
             
-            "paper": "https://www.alevelapi.com/wp-content/uploads/2025/01/2024-AL-SFT-PART-II-PAPER-SINHALA-MEDIUM-AlevelApi-PDF.pdf",
+            
+            "mcq": "https://www.alevelapi.com/wp-content/uploads/2025/01/2024-AL-SFT-PART-I-MCQ-PAPER-SINHALA-MEDIUM-AlevelApi-PDF.pdf",
+            "part": "https://www.alevelapi.com/wp-content/uploads/2025/01/2024-AL-SFT-PART-II-PAPER-SINHALA-MEDIUM-AlevelApi-PDF.pdf",
             "marking": "https://www.alevelapi.com/wp-content/uploads/2025/04/2024-AL-SCIENCE-FOR-TECHNOLOGY-MARKING-SCHEME-SINHALA-MEDIUM-AlevelApi-PDF.pdf"
         },
         {
-            "subtitle": "2023",
-            "head": "MCQ",
-            "mark": "marking",
-            "paper": "",
-            "marking": "https://www.alevelapi.com/wp-content/uploads/2024/03/2023-AL-SFT-PART-I-MCQ-PAPER-SINHALA-MEDIUM-AlevelApi-PDF.pdf"
-        },       
-        {
-            "subtitle": "Part II",
-            "head": "marking",
-            "mark": "marking",
-            "paper": "https://www.alevelapi.com/wp-content/uploads/2024/03/2023-AL-SFT-PART-II-PAPER-SINHALA-MEDIUM-AlevelApi-PDF-1.pdf",
+            "pageName": "SFT",
+            "year_text": "2023",
+            "mcq_text":"MCQ",
+            "part_text":"Part",
+           "marking_text": "Marking",
+            
+            
+            "mcq": "https://www.alevelapi.com/wp-content/uploads/2024/03/2023-AL-SFT-PART-I-MCQ-PAPER-SINHALA-MEDIUM-AlevelApi-PDF.pdf",
+            "part": "https://www.alevelapi.com/wp-content/uploads/2024/03/2023-AL-SFT-PART-II-PAPER-SINHALA-MEDIUM-AlevelApi-PDF-1.pdf",
             "marking": "https://www.alevelapi.com/wp-content/uploads/2024/11/2023-AL-SCIENCE-FOR-TECHNOLOGY-MARKING-SCHEME-SINHALA-MEDIUM-AlevelApi-PDF.pdf"
         },
-        {
-            "subtitle": "2022",
-            "head": "MCQ",
-            "mark": "marking",
-            "paper": "",
-            "marking": "https://www.alevelapi.com/wp-content/uploads/2024/08/2022-AL-SFT-PART-I-MCQ-PAPER-SINHALA-MEDIUM-AlevelApi-PDF.pdf"
-        },       
-        {
-            "subtitle": "Part II",
-            "head": "No",
-            "mark": "marking",
-            "paper": "https://www.alevelapi.com/wp-content/uploads/2024/08/2022-AL-SFT-PART-II-PAPER-SINHALA-MEDIUM-AlevelApi-PDF.pdf",
-            "marking": ""
-        }
-        ,
-
-
-        {
-            "subtitle": "2021",
-            "head": "MCQ",
-            "mark": "marking",
-            "paper": "",
-            "marking": "https://www.alevelapi.com/wp-content/uploads/2022/03/2021-AL-SFT-PART-I-MCQ-PAPER-SINHALA-MEDIUM-AlevelApi-PDF.pdf"
-        },       
-        {
-            "subtitle": "Part II",
-            "head": "marking",
-            "mark": "marking",
-            "paper": "https://www.alevelapi.com/wp-content/uploads/2023/03/2021-AL-SFT-PART-II-PAPER-SINHALA-MEDIUM-AlevelApi-PDF2.pdf",
+         {
+            "pageName": "SFT",
+            "year_text": "2022",
+            "mcq_text":"MCQ",
+            "part_text":"Part",
+           "marking_text": "Marking",
+            
+            
+            "mcq": "https://www.alevelapi.com/wp-content/uploads/2024/08/2022-AL-SFT-PART-I-MCQ-PAPER-SINHALA-MEDIUM-AlevelApi-PDF.pdf",
+            "part": "https://www.alevelapi.com/wp-content/uploads/2024/08/2022-AL-SFT-PART-II-PAPER-SINHALA-MEDIUM-AlevelApi-PDF.pdf",
             "marking": ""
         },
-        {
-            "subtitle": "2020",
-            "head": "MCQ",
-            "mark": "marking",
-            "paper": "",
-            "marking": "https://www.alevelapi.com/wp-content/uploads/2018/10/2020-AL-SFT-PART-I-MCQ-PAPER-NEW-SYLLABUS-SINHALA-MEDIUM-AlevelApi-PDF.pdf"
-        },       
-        {
-            "subtitle": "Part II",
-            "head": "marking",
-            "mark": "marking",
-            "paper": "https://www.alevelapi.com/wp-content/uploads/2018/10/2020-AL-SFT-PART-II-PAPER-NEW-SYLLABUS-SINHALA-MEDIUM-AlevelApi-PDF-1.pdf",
+         {
+            "pageName": "SFT",
+            "year_text": "2021",
+            "mcq_text":"MCQ",
+            "part_text":"Part",
+           "marking_text": "Marking",
+            
+            
+            "mcq": "https://www.alevelapi.com/wp-content/uploads/2022/03/2021-AL-SFT-PART-I-MCQ-PAPER-SINHALA-MEDIUM-AlevelApi-PDF.pdf",
+            "part": "https://www.alevelapi.com/wp-content/uploads/2023/03/2021-AL-SFT-PART-II-PAPER-SINHALA-MEDIUM-AlevelApi-PDF2.pdf",
+            "marking": ""
+        },
+         {
+            "pageName": "SFT",
+            "year_text": "2020",
+            "mcq_text":"MCQ",
+            "part_text":"Part",
+           "marking_text": "Marking",
+            
+            
+            "mcq": "https://www.alevelapi.com/wp-content/uploads/2018/10/2020-AL-SFT-PART-I-MCQ-PAPER-NEW-SYLLABUS-SINHALA-MEDIUM-AlevelApi-PDF.pdf",
+            "part": "https://www.alevelapi.com/wp-content/uploads/2018/10/2020-AL-SFT-PART-II-PAPER-NEW-SYLLABUS-SINHALA-MEDIUM-AlevelApi-PDF-1.pdf",
             "marking": "https://www.alevelapi.com/wp-content/uploads/2021/08/2020-AL-SFT-MARKING-SCHEME-NEW-OLD-SYLLABUS-SINHALA-MEDIUM-AlevelApi-PDF.pdf"
         },
         {
-            "subtitle": "2019",
-            "head": "MCQ",
-            "mark": "marking",
-            "paper": "",
-            "marking": "https://www.alevelapi.com/wp-content/uploads/2018/10/2019-AL-SFT-PART-I-MCQ-PAPER-NEW-SYLLABUS-SINHALA-MEDIUM-AlevelApi-PDF.pdf"
-        },       
-        {
-            "subtitle": "Part II",
-            "head": "marking",
-            "mark": "marking",
-            "paper": "https://www.alevelapi.com/wp-content/uploads/2018/10/2019-AL-SFT-PART-II-PAPER-NEW-SYLLABUS-SINHALA-MEDIUM-AlevelApi-PDF.pdf",
+            "pageName": "SFT",
+            "year_text": "2019",
+            "mcq_text":"MCQ",
+            "part_text":"Part",
+           "marking_text": "Marking",
+            
+            
+            "mcq": "https://www.alevelapi.com/wp-content/uploads/2018/10/2019-AL-SFT-PART-I-MCQ-PAPER-NEW-SYLLABUS-SINHALA-MEDIUM-AlevelApi-PDF.pdf",
+            "part": "https://www.alevelapi.com/wp-content/uploads/2018/10/2019-AL-SFT-PART-II-PAPER-NEW-SYLLABUS-SINHALA-MEDIUM-AlevelApi-PDF.pdf",
             "marking": "https://www.alevelapi.com/wp-content/uploads/2018/10/2019-AL-SFT-MARKING-SCHEME-NEW-OLD-SYLLABUS-SINHALA-MEDIUM-AlevelApi-PDF.pdf"
         }
+        
+      
     ]
 }

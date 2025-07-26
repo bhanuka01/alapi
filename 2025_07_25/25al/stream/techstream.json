@@ -5,35 +5,35 @@
             "title": "SFT",
             "subtitle": "Science for Technology",
             "head": "SFT",
-            "body": "41",
+            "body": "42",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/TechStream/sft.json"
         },
         {
             "title": "ET",
             "subtitle": "Engineering Technology",
             "head": "ET",
-            "body": "41",
+            "body": "42",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/TechStream/eng_tech.json"
         },
         {
             "title": "BST",
             "subtitle": "Bio System Technology",
             "head": "BST",
-            "body": "41",
+            "body": "42",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/TechStream/bio_tech.json"
         },
         {
             "title": "BRT",
             "subtitle": "Bio Resource Technology",
             "head": "BRT",
-            "body": "41",
+            "body": "42",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/TechStream/bio_resource.json"
         },
         {
             "title": "AT",
             "subtitle": "Agro Technology",
             "head": "AT",
-            "body": "41",
+            "body": "42",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/TechStream/agro_tech.json"
         }
     ]
