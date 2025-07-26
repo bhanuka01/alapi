@@ -1,24 +1,26 @@
 {
     "data": [
         {
-            "title": "Commerce Stream",
-            "subtitle": "Accounting ",
+            "pageName": "Commerce Stream",
+            "title": "Accounting",
+            "subtitle": "Commerce Stream",
             "head": "",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/al25/CommerceStream/account.json"
+            "body": "41",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/al25/CommerceStream/account.json"
         },
         {
-            
-            "subtitle": "Business Studies", 
+            "title": "Business Studies",
+            "subtitle": "Commerce Stream",
             "head": "",
-           "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/al25/CommerceStream/business.json"
+            "body": "41",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/al25/CommerceStream/business.json"
         },
         {
-            
-            "subtitle": "Economics",
+            "title": "Economics",
+            "subtitle": "Commerce Stream",
             "head": "",
-           "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/al25/CommerceStream/economics.json"
+            "body": "41",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/al25/CommerceStream/economics.json"
         }
-
-    
     ]
 }

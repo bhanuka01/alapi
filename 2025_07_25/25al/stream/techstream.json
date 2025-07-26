@@ -1,37 +1,40 @@
 {
     "data": [
         {
-            "title": "Tech",
-            "head": "SFT",
+            "pageName": "Tech",
+            "title": "SFT",
             "subtitle": "Science for Technology",
-            
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/al25/TechStream/sft.json"
+            "head": "SFT",
+            "body": "41",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/al25/TechStream/sft.json"
         },
         {
-            
+            "title": "ET",
+            "subtitle": "Engineering Technology",
             "head": "ET",
-            "subtitle": "",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/al25/TechStream/eng_tech.json"
+            "body": "41",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/al25/TechStream/eng_tech.json"
         },
-        
         {
-            
+            "title": "BST",
+            "subtitle": "Bio System Technology",
             "head": "BST",
-            "subtitle": "",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/al25/TechStream/bio_tech.json"
-        },
-        
-        {
-           
-            "head": "BRT ",
-            "subtitle": "",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/al25/TechStream/bio_resource.json"
+            "body": "41",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/al25/TechStream/bio_tech.json"
         },
         {
-            
-            "head": "AT ",
-            "subtitle": "",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/al25/TechStream/agro_tech.json"
+            "title": "BRT",
+            "subtitle": "Bio Resource Technology",
+            "head": "BRT",
+            "body": "41",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/al25/TechStream/bio_resource.json"
+        },
+        {
+            "title": "AT",
+            "subtitle": "Agro Technology",
+            "head": "AT",
+            "body": "41",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/al25/TechStream/agro_tech.json"
         }
     ]
 }
