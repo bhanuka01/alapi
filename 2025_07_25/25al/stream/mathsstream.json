@@ -2,36 +2,32 @@
     "data": [
         {
             "pageName":"Maths",
-            "title": "Comb. Maths",
-            "subtitle": "X+Y=Goal",
+            "title": "Combined Maths",
+            "subtitle": "Achieve your equations.",
             "head": "",
             "body":"41",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/MathsStream/maths.json"
         },
         {
             "title": "Physics",
-            "subtitle": "E=MC^2",
+            "subtitle": "Unlocking universe's secrets.",
             "head": "",
             "body":"41",
            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/MathsStream/phy.json"
         },
         {
-            "title": "Chemisty",
-            
-            "subtitle": "CH4",
+            "title": "Chemistry",
+            "subtitle": "Elements of success.",
             "head": "",
             "body":"41",
            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/MathsStream/chem.json"
         },
-        
         {
             "title": "ICT",
-            "subtitle": "some info face",
+            "subtitle": "Code your future.",
             "head": "",
             "body":"41",
            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/MathsStream/ict.json"
         }
-
-    
     ]
 }

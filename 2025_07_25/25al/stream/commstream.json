@@ -3,21 +3,21 @@
         {
             "pageName": "Commerce Stream",
             "title": "Accounting",
-            "subtitle": "Commerce Stream",
+            "subtitle": "Balance your future.",
             "head": "",
             "body": "41",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/al25/CommerceStream/account.json"
         },
         {
             "title": "Business Studies",
-            "subtitle": "Commerce Stream",
+            "subtitle": "Lead with strategy.",
             "head": "",
             "body": "41",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/al25/CommerceStream/business.json"
         },
         {
             "title": "Economics",
-            "subtitle": "Commerce Stream",
+            "subtitle": "Understand the market.",
             "head": "",
             "body": "41",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/al25/CommerceStream/economics.json"

@@ -3,29 +3,28 @@
         {
             "pageName": "Biology",
             "title": "Biology",
-            "subtitle": "Bio Stream",
+            "subtitle": "Unravel life's mysteries.",
             "head": "",
             "body": "41",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/al25/BioStream/bio.json"
         },
         {
             "title": "Physics",
-            "subtitle": "E=MC^2",
+            "subtitle": "Explore universal laws.",
             "head": "",
             "body": "41",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/al25/MathsStream/phy.json"
         },
         {
-            "title": "Chemisty",
-            "subtitle": "CH4",
+            "title": "Chemistry",
+            "subtitle": "Discover molecular bonds.",
             "head": "",
             "body": "41",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/al25/MathsStream/chem.json"
         },
         {
-            
-            "title": "Agry",
-            "subtitle": "Agry Stream",
+            "title": "Agriculture",
+            "subtitle": "Cultivate a greener future.",
             "head": "",
             "body": "41",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/al25/BioStream/agry.json"

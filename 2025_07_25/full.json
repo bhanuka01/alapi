@@ -2,20 +2,18 @@
     "data": [
         {
             "title": "A/L",
-            "subtitle": "Welcom to A/L",
+            "subtitle": "Achieve your advanced dreams.",
             "head": "",
             "body": "21",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/home.json",
             "version": "2.5.0"
-            
         },
         {
             "title": "O/L",
-            "subtitle": "",
+            "subtitle": "Build your strong foundation.",
             "head": "",
             "body": "21",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/home.json"
-            
         }
     ]
 }

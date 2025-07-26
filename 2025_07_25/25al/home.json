@@ -3,7 +3,7 @@
         {
             "pageName":"A/L",
             "title": "Math Stream",
-            "subtitle": "",
+            "subtitle": "Numbers never lie.",
             "head": "",
             "body": "31",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/stream/mathsstream.json",
@@ -11,7 +11,7 @@
         },
         {
             "title": "Biology Stream",
-            "subtitle": "",
+            "subtitle": "Life's intricate dance.",
             "head": "",
             "body": "31",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/stream/biostream.json",
@@ -19,7 +19,7 @@
         },
         {
             "title": "Commerce Stream",
-            "subtitle": "", 
+            "subtitle": "Invest, grow, succeed.", 
             "head": "",
             "body": "31",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/stream/commstream.json",
@@ -27,12 +27,11 @@
         },
         {
             "title": "Technology Stream",
-            "subtitle": "",
+            "subtitle": "Innovate, create, inspire.",
             "head": "",
             "body": "31",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/stream/techstream.json",
             "img": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/couragedisliked/img.jpg"
         }
-        
     ]
 }
