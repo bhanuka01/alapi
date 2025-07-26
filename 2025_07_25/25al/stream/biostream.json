@@ -6,28 +6,28 @@
             "subtitle": "Unravel life's mysteries.",
             "head": "",
             "body": "41",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/al25/BioStream/bio.json"
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/BioStream/bio.json"
         },
         {
             "title": "Physics",
             "subtitle": "Explore universal laws.",
             "head": "",
             "body": "41",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/al25/MathsStream/phy.json"
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/MathsStream/phy.json"
         },
         {
             "title": "Chemistry",
             "subtitle": "Discover molecular bonds.",
             "head": "",
             "body": "41",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/al25/MathsStream/chem.json"
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/MathsStream/chem.json"
         },
         {
             "title": "Agriculture",
             "subtitle": "Cultivate a greener future.",
             "head": "",
             "body": "41",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/al25/BioStream/agry.json"
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/BioStream/agry.json"
         }
     ]
 }
