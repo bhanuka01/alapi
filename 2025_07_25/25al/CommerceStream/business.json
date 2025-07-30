@@ -1,9 +1,9 @@
 {
     "data": [
         {
-            "title": "Business Studies",
-            "subtitle": "2022",
-            "head": "marking",
+            "pageName": "Business Studies",
+            "year_text": "2022",
+            "marking_text": "marking",
             "body": "1",
             "url": "",
             
@@ -11,44 +11,44 @@
             "marking": "https://pastpapers.wiki/download/24091/2022-a-l-marking-scheme/61345/20222023-al-business-studies-marking-scheme-sinhala-medium.pdf"
         },
         {
-            "subtitle": "2021",
-            "head": "marking",
+            "year_text": "2021",
+            "marking_text": "marking",
             "paper": "https://pastpapers.wiki/download/14272/2021-a-l-past-papers/52703/2021-al-business-studies-past-paper-sinhala-medium.pdf",
             "marking": "https://pastpapers.wiki/download/18376/2021-a-l-markings/58051/2021-al-economics-marking-scheme-sinhala-medium-2.pdf"
         },
         {
-            "subtitle": "2020",
-            "head": "marking",
+            "year_text": "2020",
+            "marking_text": "marking",
             "paper": "https://www.gurupiyasa.guru/download/2020-a-l-business-studies-past-paper/?wpdmdl=3463&masterkey=6138e6bc60003",
             "marking": "https://drive.google.com/uc?export=download&id=18C5MCOlATbhRKOLkKklLMIfRFV1TK371"
         },
         {
-            "subtitle": "2019",
-            "head": "marking",
+            "year_text": "2019",
+            "marking_text": "marking",
             "paper": "https://drive.google.com/uc?export=download&id=16k32gMxFvCIzUiFxKxRbpEl9avIXzidK",
             "marking": "https://www.alevelapi.com/wp-content/uploads/2020/01/2019-AL-BUSINESS-STUDIES-MARKING-SCHEME-NEW-SYLLABUS-SINHALA-MEDIUM-AlevelApi-PDF.pdf"
         },
         {
-            "subtitle": "2018",
-            "head": "marking",
+            "year_text": "2018",
+            "marking_text": "marking",
             "paper": "https://drive.google.com/uc?export=download&id=1LTzOz5FdCevI5gL5Z5Bgdtd5WX325zsF",
             "marking": "https://drive.google.com/uc?export=download&id=1qjixMR8LLlnqM0jqaqKCth1wlIEgw0Yn"
         },
         {
-            "subtitle": "2017",
-            "head": "marking",
+            "year_text": "2017",
+            "marking_text": "marking",
             "paper": "https://drive.google.com/uc?export=download&id=1d3FVha06wXmrr9M2vgR1X8pbg5Fx04eP",
             "marking": "https://drive.google.com/uc?export=download&id=1qq-CSx6YdUyZmWetY_R8WshduR1Hm14D"
         },
         {
-            "subtitle": "2016",
-            "head": "marking",
+            "year_text": "2016",
+            "marking_text": "marking",
             "paper": "https://paperhub.lk/wp-content/uploads/2024/01/2016_al_business_studies_past_paper_sinhala_medium_paperhub.lk_.pdf",
             "marking": "https://drive.google.com/uc?export=download&id=1ToeGrvtUOLdIGy6wo3lX1qAnQDWMmNir"
         },
         {
-            "subtitle": "2015",
-            "head": "marking",
+            "year_text": "2015",
+            "marking_text": "marking",
             "paper": "https://drive.google.com/uc?export=download&id=1E_7KuNZ28sGZBSeQ9BfXOKCCQy07vHUv",
             "marking": "https://drive.google.com/uc?export=download&id=1LIKGr_FpRExe9J7So9llYF4r3xOa94MO"
         }
