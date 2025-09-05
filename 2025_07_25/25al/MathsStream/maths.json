@@ -2,15 +2,23 @@
     "data":[
         {
             "pageName":"Combined Maths",            
-            "year_text":"2024",
+            "year_text":"2024 (I)",
             "marking_text":"Marking",
             "body":"1",
             "url":"",
-            "paper": "https://pastpapers.wiki/download/27227/2023-2024-a-l/70954/20232024-al-combined-maths-paper-sinhala-medium.pdf",
-            "marking": "https://pastpapers.wiki/download/7820/gce-a-l/75324/20232024-al-combined-maths-marking-scheme-sinhala-medium.pdf"
+            "paper": "https://www.alevelapi.com/wp-content/uploads/2025/01/2024-AL-COMBINED-MATHS-PART-I-SINHALA-MEDIUM-AlevelApi-PDF.pdf",
+            "marking": "https://www.alevelapi.com/wp-content/uploads/2025/04/2024-AL-COMBINED-MATHS-I-MARKING-SCHEME-SINHALA-MEDIUM-AlevelApi-PDF.pdf"
 
-        },{
-            "year_text": "20231",
+        },
+        {
+            "year_text": "2024 (II)",
+            "marking_text":"marking",
+            "mark": "Marking",
+            "paper": "https://www.alevelapi.com/wp-content/uploads/2025/01/2024-AL-COMBINED-MATHS-PART-II-SINHALA-MEDIUM-AlevelApi-PDF.pdf",
+            "marking": "https://www.alevelapi.com/wp-content/uploads/2025/04/2024-AL-COMBINED-MATHS-II-MARKING-SCHEME-SINHALA-MEDIUM-AlevelApi-PDF.pdf"
+        },
+        {
+            "year_text": "2023",
             "marking_text":"marking",
             "mark": "Marking",
             "paper": "https://pastpapers.wiki/download/27227/2023-2024-a-l/70954/20232024-al-combined-maths-paper-sinhala-medium.pdf",
