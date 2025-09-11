@@ -1,6 +1,28 @@
 {
     "data":[
         {
+      "pageName": "Combined Maths",
+      "year_text": "2025 (I)",
+      "marking_text": "Marking",
+      "body": "1",
+      "url": "",
+      "paper": "https://www.alevelapi.com/wp-content/uploads/2025/01/2024-AL-COMBINED-MATHS-PART-I-SINHALA-MEDIUM-AlevelApi-PDF.pdf",
+      "marking": "https://www.alevelapi.com/wp-content/uploads/2025/04/2024-AL-COMBINED-MATHS-I-MARKING-SCHEME-SINHALA-MEDIUM-AlevelApi-PDF.pdf"
+    },
+    {
+      "year_text1": "2024 (I)",
+      "year_text2": "(II)",
+
+      "marking_text": "Marking",
+
+
+      "mark": "Marking",
+      "paper1": "https://www.alevelapi.com/wp-content/uploads/2025/01/2024-AL-COMBINED-MATHS-PART-II-SINHALA-MEDIUM-AlevelApi-PDF.pdf",
+
+      "paper2": "https://www.alevelapi.com/wp-content/uploads/2025/01/2024-AL-COMBINED-MATHS-PART-II-SINHALA-MEDIUM-AlevelApi-PDF.pdf",
+      "marking2": "https://www.alevelapi.com/wp-content/uploads/2025/04/2024-AL-COMBINED-MATHS-II-MARKING-SCHEME-SINHALA-MEDIUM-AlevelApi-PDF.pdf"
+    },
+        {
             "pageName":"Combined Maths",            
             "year_text":"2024 (I)",
             "marking_text":"Marking",
