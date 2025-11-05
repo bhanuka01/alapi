@@ -19,7 +19,7 @@
             "title": "BST",
             "subtitle": "Bio System Technology",
             "head": "BST",
-            "body": "42",
+            "body": "41",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/TechStream/bio_tech.json"
         },
         {
@@ -28,6 +28,13 @@
             "head": "BRT",
             "body": "42",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/TechStream/bio_resource.json"
+        },
+        {
+            "title": "Agriculture",
+            "subtitle": "Cultivate a greener future.",
+            "head": "",
+            "body": "41",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/BioStream/agry.json"
         },
         {
             "title": "AT",
