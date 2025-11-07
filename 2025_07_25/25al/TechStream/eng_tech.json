@@ -2,16 +2,66 @@
     "data": [
         {
             "pageName": "Engineering Technology",
-            "year_text": "2019-----",
+            "year_text": "2024",
+            "mcq_text":"MCQ",
+            "part_text":"Part II",
+           "marking_text": "No",
+            
+            
+            "mcq": "https://www.alevelapi.com/wp-content/uploads/2025/01/2024-AL-ENGINEERING-TECHNOLOGY-PART-I-MCQ-PAPER-SINHALA-MEDIUM-AlevelApi-PDF.pdf",
+            "part": "https://www.alevelapi.com/wp-content/uploads/2025/01/2024-AL-ENGINEERING-TECHNOLOGY-PART-II-PAPER-SINHALA-MEDIUM-AlevelApi-PDF-1.pdf",
+            "marking": ""
+        },
+        {
+            "pageName": "Engineering Technology",
+            "year_text": "2023",
+            "mcq_text":"MCQ",
+            "part_text":"Part II",
+           "marking_text": "Marking",
+            
+            
+            "mcq": "https://www.alevelapi.com/wp-content/uploads/2024/03/2023-AL-ENGINEERING-TECHNOLOGY-PART-I-MCQ-PAPER-SINHALA-MEDIUM-AlevelApi-PDF-1.pdf",
+            "part": "https://www.alevelapi.com/wp-content/uploads/2024/03/2023-AL-ENGINEERING-TECHNOLOGY-PART-II-PAPER-SINHALA-MEDIUM-AlevelApi-PDF-2.pdf",
+            "marking": "https://www.alevelapi.com/wp-content/uploads/2024/07/2023-AL-ENGINEERING-TECHNOLOGY-MARKING-SCHEME-SINHALA-MEDIUM-AlevelApi-PDF.pdf"
+        }
+        ,
+        {
+            "pageName": "Engineering Technology",
+            "year_text": "2022",
             "mcq_text":"MCQ",
             "part_text":"Part",
            "marking_text": "Marking",
             
             
-            "mcq": "https://www.alevelapi.com/wp-content/uploads/2018/10/2019-AL-SFT-PART-I-MCQ-PAPER-NEW-SYLLABUS-SINHALA-MEDIUM-AlevelApi-PDF.pdf",
-            "part": "https://www.alevelapi.com/wp-content/uploads/2018/10/2019-AL-SFT-PART-II-PAPER-NEW-SYLLABUS-SINHALA-MEDIUM-AlevelApi-PDF.pdf",
-            "marking": "https://www.alevelapi.com/wp-content/uploads/2018/10/2019-AL-SFT-MARKING-SCHEME-NEW-OLD-SYLLABUS-SINHALA-MEDIUM-AlevelApi-PDF.pdf"
+            "mcq": "https://www.alevelapi.com/wp-content/uploads/2024/08/2022-AL-ENGINEERING-TECHNOLOGY-PART-I-MCQ-PAPER-SINHALA-MEDIUM-AlevelApi-PDF.pdf",
+            "part": "https://www.alevelapi.com/wp-content/uploads/2024/08/2022-AL-ENGINEERING-TECHNOLOGY-PART-II-PAPER-SINHALA-MEDIUM-AlevelApi-PDF.pdf-1.pdf",
+            "marking": "https://www.alevelapi.com/wp-content/uploads/2024/10/2022-AL-ENGINEERING-TECHNOLOGY-MARKING-SCHEME-SINHALA-MEDIUM-AlevelApi-PDF.pdf"
+        },
+        {
+            "pageName": "Engineering Technology",
+            "year_text": "2021",
+            "mcq_text":"MCQ",
+            "part_text":"Part",
+           "marking_text": "Marking",
+            
+            
+            "mcq": "https://www.alevelapi.com/wp-content/uploads/2022/03/2021-AL-ENGINEERING-TECHNOLOGY-PART-I-MCQ-PAPER-SINHALA-MEDIUM-AlevelApi-PDF.pdf",
+            "part": "https://www.alevelapi.com/wp-content/uploads/2023/03/2021-AL-ENGINEERING-TECHNOLOGY-PART-II-PAPER-SINHALA-MEDIUM-AlevelApi-PDF2.pdf",
+            "marking": "https://www.alevelapi.com/wp-content/uploads/2023/06/2021-AL-ENGINEERING-TECHNOLOGY-MARKING-SCHEME-SINHALA-MEDIUM-AlevelApi-PDF.pdf"
+        },
+        {
+            "pageName": "Engineering Technology",
+            "year_text": "2020",
+            "mcq_text":"MCQ",
+            "part_text":"Part",
+           "marking_text": "Marking",
+            
+            
+            "mcq": "https://www.alevelapi.com/wp-content/uploads/2021/10/2020-AL-ENGINEERING-TECHNOLOGY-PART-I-MCQ-PAPER-NEW-SYLLABUS-ENGLISH-MEDIUM-AlevelApi-PDF.pdf",
+            "part": "https://www.alevelapi.com/wp-content/uploads/2021/10/2020-AL-ENGINEERING-TECHNOLOGY-PART-II-PAPER-NEW-SYLLABUS-ENGLISH-MEDIUM-AlevelApi-PDF.pdf",
+            "marking": "https://www.alevelapi.com/wp-content/uploads/2021/09/2020-AL-ENGINEERING-TECHNOLOGY-MARKING-SCHEME-NEW-SYLLABUS-SINHALA-MEDIUM-AlevelApi-PDF.pdf"
         }
+        
         
     ]
 }
