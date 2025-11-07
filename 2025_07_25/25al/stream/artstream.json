@@ -1,22 +1,20 @@
 {
     "data": [
         {
-            "title": "Maths",
-            "subtitle": "maths ",
-            "head": "",
-            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/MathsStream/maths.json"
+            "pageName": "Political Science",
+            "title": "Political",
+            "subtitle": "Political Science",
+            "head": "Political",
+            "body": "42",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/ArtStream/PoliticalScience.json"
         },
         {
-            
-            "subtitle": "Physics",
-            "head": "",
-           "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/MathsStream/maths.json"
-        },
-        {
-            
-            "subtitle": "Chemisty",
-            "head": "",
-           "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/newui/MathsStream/maths.json"
+            "pageName": "History of Sri Lanka",
+            "title": "History",
+            "subtitle": "SHistory of Sri Lanka",
+            "head": "History",
+            "body": "42",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/ArtStream/HistoryLanka.json"
         }
 
     

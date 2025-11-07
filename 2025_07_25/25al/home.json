@@ -32,6 +32,26 @@
             "body": "31",
             "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/stream/techstream.json",
             "img": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/couragedisliked/img.jpg"
+        },
+        {
+            "title": "Art Stream",
+            "subtitle": "Innovate, create, inspire.",
+            "head": "",
+            "body": "31",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/stream/artstream.json",
+            "img": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/couragedisliked/img.jpg"
         }
+    ],
+    "temp":[
+        
+        {
+            "title": "Art Stream",
+            "subtitle": "Innovate, create, inspire.",
+            "head": "",
+            "body": "31",
+            "url": "https://raw.githubusercontent.com/bhanuka01/alapi/main/2025_07_25/25al/stream/artstream.json",
+            "img": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/couragedisliked/img.jpg"
+        }
+
     ]
 }
