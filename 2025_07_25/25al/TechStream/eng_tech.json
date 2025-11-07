@@ -5,12 +5,12 @@
             "year_text": "2024",
             "mcq_text":"MCQ",
             "part_text":"Part II",
-           "marking_text": "No",
+           "marking_text": "Marking",
             
             
             "mcq": "https://www.alevelapi.com/wp-content/uploads/2025/01/2024-AL-ENGINEERING-TECHNOLOGY-PART-I-MCQ-PAPER-SINHALA-MEDIUM-AlevelApi-PDF.pdf",
             "part": "https://www.alevelapi.com/wp-content/uploads/2025/01/2024-AL-ENGINEERING-TECHNOLOGY-PART-II-PAPER-SINHALA-MEDIUM-AlevelApi-PDF-1.pdf",
-            "marking": ""
+            "marking": "https://pastpapers.wiki/download/31381/2024-a-l/92903/2024-et-marking-2.pdf"
         },
         {
             "pageName": "Engineering Technology",
@@ -29,7 +29,7 @@
             "pageName": "Engineering Technology",
             "year_text": "2022",
             "mcq_text":"MCQ",
-            "part_text":"Part",
+            "part_text":"Part II ",
            "marking_text": "Marking",
             
             
@@ -41,7 +41,7 @@
             "pageName": "Engineering Technology",
             "year_text": "2021",
             "mcq_text":"MCQ",
-            "part_text":"Part",
+            "part_text":"Part II",
            "marking_text": "Marking",
             
             
@@ -53,7 +53,7 @@
             "pageName": "Engineering Technology",
             "year_text": "2020",
             "mcq_text":"MCQ",
-            "part_text":"Part",
+            "part_text":"Part II",
            "marking_text": "Marking",
             
             
