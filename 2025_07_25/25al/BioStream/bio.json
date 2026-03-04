@@ -3,10 +3,17 @@
         {
             "pageName": "Biology",
             "year_text": "2025",
-            "marking_text": "marking",
+            "marking_text": "P-1 Mark",
             "mark": "marking",
             "paper": "https://drive.google.com/uc?export=download&id=1--tX4vSgGnqz3BsbYbM0He5C9UzcdTE1",
             "marking": "https://drive.google.com/uc?export=download&id=1DCu3KGwDoNWaSrc4jh1iMgVSfo7zCahT"
+        },
+        {
+            "year_text": "2024",
+            "marking_text": "marking",
+            "mark": "marking",
+            "paper": "https://drive.google.com/uc?export=download&id=1CVbfN6bm5HDz-64OcLc6M8dmh7ZQlcJc",
+            "marking": "https://drive.google.com/uc?export=download&id=17RNCVPs0U1DXaADV-samNsTZDbgkxIfg"
         },
         {
             "year_text": "2023",
