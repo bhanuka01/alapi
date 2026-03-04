@@ -3,10 +3,17 @@
        
         {
             "pageName":"Combined Maths",            
-            "year_text":"2024",
-            "marking_text":"Marking",
+            "year_text":"2025",
+            "marking_text":"No Marking",
             "body":"1",
             "url":"",
+            "paper": "https://drive.google.com/uc?export=download&id=1PHK7lERW3F0HMTEwt2wm_errc5f7wQ9a",
+            "marking": "no"
+        },
+        {
+            "year_text": "2024",
+            "marking_text":"Marking",
+            "mark": "Marking",
             "paper": "https://pastpapers.wiki/download/31381/2024-a-l/90102/combined-maths-full.pdf",
             "marking": "https://pastpapers.wiki/download/32461/2024-marking/87556/2024-al-combined-maths-marking-scheme.pdf"
         },
