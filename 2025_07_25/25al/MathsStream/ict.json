@@ -2,10 +2,17 @@
     "data": [
         {
             "pageName": "ICT",
-            "year_text": "2024",
-            "marking_text": "Marking",
+            "year_text": "2025 P-1",
+            "marking_text": "No",
             "body": "1",
             "url": "",
+            "paper": "https://drive.google.com/uc?export=download&id=1raKuWazxPjMEpabhvSSSnDLDUmpZLfUV",
+            "marking": ""
+        },
+         {
+            "year_text": "2024",
+            "marking_text": "Marking",
+            "mark": "Marking",
             "paper": "https://ictfromabc.com/storage/past-papers/al-2024-sinhala_2025-06-27_11-03-58.pdf",
             "marking": "https://pastpapers.wiki/download/27796/20232024-o-l/87836/2024-al-ict-marking-scheme-tamil-medium.pdf"
         },
