@@ -3,11 +3,20 @@
 
         {
             "pageName": "BioSystems Technology",
+            "year_text": "2025",
+            "marking_text":"Marking",
+            "mark": "Marking",
+            "body":"1",
+            "paper": "https://pastpapers.wiki/download/39533/2025-a-l/107171/2025-al-bio-systems-technology-paper-sinhala-medium-past-papers-wiki.pdf",
+            "marking": "https://pastpapers.wiki/download/39724/2025-a-l-marking/105318/2025-al-bst-marking-sm-past-papers-wiki.pdf"
+        },
+        {
+            "pageName": "BioSystems Technology",
             "year_text": "2024",
             "marking_text":"Marking",
             "mark": "Marking",
             "body":"1",
-            "paper": "",
+            "paper": "https://pastpapers.wiki/download/37759/2024-a-l-sm-past-papers/101551/2024-al-biosystems-technology-past-paper-sinhala-medium-past-papers-wiki.pdf",
             "marking": "https://pastpapers.wiki/download/32461/2024-marking/87490/2024-al-bio-system-technology-marking-scheme.pdf"
         },
         {
