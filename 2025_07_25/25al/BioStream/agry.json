@@ -2,6 +2,15 @@
     "data": [
         {
             "pageName": "Agricultural",
+            "year_text": "2025",
+            "marking_text": "marking",
+            "body": "1",
+            "url": "",
+            "paper": "https://pastpapers.wiki/download/39533/2025-a-l/104976/gce-advanced-level-2025-agricultural-science-paper-in-sinhala-medium.pdf",
+            "marking": "https://pastpapers.wiki/download/39724/2025-a-l-marking/105291/2025-al-agri-science-marking-past-papers-wiki.pdf"
+        },
+        {
+            "pageName": "Agricultural",
             "year_text": "2024",
             "marking_text": "marking",
             "body": "1",
