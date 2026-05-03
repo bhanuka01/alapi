@@ -2,6 +2,18 @@
     "data": [
         {
             "pageName": "SFT",
+            "year_text": "2025",
+            "mcq_text":"Paper",
+            "part_text":"No",
+           "marking_text": "No",
+            
+            
+            "mcq": "https://pastpapers.wiki/download/39533/2025-a-l/105072/gce-advanced-level-2025-science-for-technology-paper-in-sinhala-medium.pdf",
+            "part": "",
+            "marking": ""
+        },
+        {
+            "pageName": "SFT",
             "year_text": "2024",
             "mcq_text":"MCQ",
             "part_text":"Part",
